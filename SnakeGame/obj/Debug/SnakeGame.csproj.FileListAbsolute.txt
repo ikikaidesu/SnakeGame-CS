@@ -1,0 +1,7 @@
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\mtvdc\OneDrive\Рабочий стол\бебра\c#\змейка\SnakeGame\obj\Debug\SnakeGame.pdb
