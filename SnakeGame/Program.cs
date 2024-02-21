@@ -18,7 +18,7 @@ namespace Main
         // цвет головы
         public const ConsoleColor SnakeColor = ConsoleColor.Magenta;
         // цвет тела
-        public const ConsoleColor BodyColor = ConsoleColor.White;
+        public const ConsoleColor BodyColor = ConsoleColor.DarkMagenta;
         // цвет еды
         public const ConsoleColor FoodColor = ConsoleColor.Red;
         // счетчик сьеденных яблочек
