@@ -16,9 +16,9 @@ namespace Main
         // цвет для барьера
         public const ConsoleColor Color = ConsoleColor.DarkGray;
         // цвет головы
-        public const ConsoleColor SnakeColor = ConsoleColor.Magenta;
+        public const ConsoleColor SnakeColor = ConsoleColor.DarkMagenta;
         // цвет тела
-        public const ConsoleColor BodyColor = ConsoleColor.White;
+        public const ConsoleColor BodyColor = ConsoleColor.Magenta;
         // цвет еды
         public const ConsoleColor FoodColor = ConsoleColor.Red;
         // счетчик сьеденных яблочек
@@ -178,6 +178,7 @@ namespace Main
             // строка для очистки места для надписи
             string Clearing = "                   ";
             // выводим текст при поражении
+            Console.ForegroundColor = ConsoleColor.White;
             for (int i = 0; i < 3; i++)
             {
                 Console.SetCursorPosition(WindowWidth * WindowMultiplier / 2 - EndGameString[0].Length / 2, WindowHeight * WindowMultiplier / 2 - EndGameString[0].Length / 2 + i);
@@ -205,6 +206,7 @@ namespace Main
             // строка для очистки места для надписи
             string Clearing = "                   ";
             // выводим текст при поражении
+            Console.ForegroundColor = ConsoleColor.White;
             for (int i = 0; i < 3; i++)
             {
                 Console.SetCursorPosition(WindowWidth * WindowMultiplier / 2 - EndGameString[0].Length / 2, WindowHeight * WindowMultiplier / 2 - EndGameString[0].Length / 2 + i);
