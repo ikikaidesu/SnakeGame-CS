@@ -19,6 +19,8 @@
 (if you have C# installed)
 1. go to bin/Debug
 2. downlaod and run SnakeGame.exe
+   
+<p>Don't forget to configure your console correctly!<br/>Personally, I used the exact 8x9 font (if you have the same ratios, then choose them!)</p>
 
 ## Documentation
 
